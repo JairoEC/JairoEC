@@ -19,7 +19,9 @@
 - 📫 I am also a technical writer at Medium 
 
 ## Skills
-
+<!--
+https://github.com/tandpfun/skill-icons#readme
+-->
 ### Languajes
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,python)](https://skillicons.dev)
