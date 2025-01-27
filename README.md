@@ -23,14 +23,17 @@
 https://github.com/tandpfun/skill-icons#readme
 -->
 ### Languajes
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<!--
 [![My Skills](https://skillicons.dev/icons?i=java,js,python)](https://skillicons.dev)
+-->
 
 ### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=dotnet,spring,django)](https://skillicons.dev)
-
+![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![NET](https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+![DOCKER](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <hr>
 
