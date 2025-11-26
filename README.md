@@ -38,6 +38,7 @@ https://github.com/tandpfun/skill-icons#readme
 <hr>
 
 <!--REPOSITORIO-->
+<!--
  <a href="https://github.com/SumanthBajjuri07/android-app-market-on-Gplay">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=android-app-market-on-Gplay&theme=great-gatsby" />
 </a>
@@ -58,7 +59,7 @@ https://github.com/tandpfun/skill-icons#readme
 <a href="https://github.com/SumanthBajjuri07/collab">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=collab&theme=great-gatsby" />
 </a>
-
+-->
 <br>
 <br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
